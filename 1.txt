@@ -1,3 +1,4 @@
 git push first
 git fecth first
 git second
+push after clone first
