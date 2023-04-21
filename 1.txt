@@ -2,4 +2,9 @@ git push first
 git fecth first
 git second
 push after clone first
+<<<<<<< HEAD
 local change
+=======
+github change 
+github change github change github change github change 
+>>>>>>> 1fa8e74dcdcfc0e35102bc8a3f69a3980691da36
